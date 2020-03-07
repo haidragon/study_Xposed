@@ -1,2 +1,2 @@
-# study_xpoesd
-xpoesd 教程
+# study_Xposed
+Xposed 教程
