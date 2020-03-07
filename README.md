@@ -7,7 +7,7 @@ Xposed 教程
 * 第四节Xposed Hook复杂参数
 * 第五节Xposed 替换函数
 * 第六节Xposed Hook内部类
-* 第七节Xposed hook所有类所有函数以及调用堆栈与主动调用
+* 第七节Xposed hook所有类所有函数(含打调用堆栈与主动调用)
 * 第八节Xposed Hook多dex
 * 第九节Xposed Hook java原生算法库
 * 第十节 Xposed Hook 构造函数与内部类构造函数
