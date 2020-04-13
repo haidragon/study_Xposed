@@ -16,12 +16,8 @@ Xposed 教程
 * 第十二节 vXposed环境搭建
 * 第十三节 EdXposed环境搭建
 * 第十四节 太极·Magisk
-# 视频持续更新.......  
-# 其它教程
-* [study_frida](https://github.com/haidragon/study_frida)
-* [study_obscure](https://github.com/haidragon/study_obscure)
-* [study_Android_Mchange](https://github.com/haidragon/study_Android_Mchange)
-* [study_firewall](https://github.com/haidragon/study_firewall)
+# 视频教程
+* [对应视频教程目录](https://github.com/haidragon/haidragon_study)
 * qq交流群 
 * 309262570
 * 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
