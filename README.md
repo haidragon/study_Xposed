@@ -1,22 +1,26 @@
-# study_Xposed
-Xposed 教程
-## 第一章 Xposed基础
-* [第一节Xposed框架环境搭建](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page1/page.md)
-* [第二节java反射联合 Xposed 复习](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page2/page.md)
-* [第三节Xposed Hook普通方法与静态变量](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page2/page.md)
-* [第四节Xposed Hook复杂参数](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page4/page.md)
-* [第五节Xposed 替换函数](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page5/page.md)
-* [第六节Xposed Hook内部类](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page6/page.md)
-* [第七节Xposed hook所有类所有函数(含打调用堆栈与主动调用)](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page7/page.md)
-* [第八节Xposed Hook多dex](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page7/page.md)
-* [第九节Xposed Hook java原生算法库](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page7/page.md)
-* [第十节 Xposed Hook 构造函数与内部类构造函数](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page10/page.md)
-* [第十一节Xposed Hook 自定义类参数](https://github.com/haidragon/study_Xposed/blob/master/study_xposed/page11/page.md)
-## 第二章 Xposed其它衍生产品
-* 第十二节 vXposed环境搭建
-* 第十三节 EdXposed环境搭建
-* 第十四节 太极·Magisk
-# 视频教程
+# study_Xposed (完结) 可以加vx 2207344074了解详情！！！ qq群：309262570 826038086
+# Xposed 教程
+* --- 1.android8以及以前版本xposed安装.mp4
+* --- 2.android9下安装Magisk.太极.mp4
+* --- 3.android9下EDXposed安装.mp4
+* --- 4.android10下安装Magisk.太极.mp4
+* --- 5.android10下EDXposed安装.mp4
+* --- 6.免root下VirtualXposed环境搭建.mp4
+* --- 7.编写第一个xposed程序.mp4
+* --- 8.Xposed Hook 复习java反射.mp4
+* --- 9.Xposed Hook 普通方法与静态变量.mp4
+* --- 10.Xposed Hook 复杂参数.mp4
+* --- 11.Xposed Hook 替换函数.mp4
+* --- 12.Xposed Hook 内部类.mp4
+* --- 13.Xposed hook 实现class trace.mp4
+* --- 14.Xposed hook 打调用堆栈与主动调用.mp4
+* --- 15.Xposed Hook 构造函数与内部类构造函数.mp4
+* --- 16.Xposed Hook 自定义类参数.mp4
+* --- 17.Xposed Hook 多dex如何hook问题.mp4
+* --- 18.Xposed Hook 实现ssl trace.mp4
+* --- 19.Xposed so 注入.mp4
+* --- 20.Xposed so hook.mp4
+# 其它视频教程
 * [对应视频教程目录](https://github.com/haidragon/haidragon_study)
 * qq交流群 
 * 309262570
