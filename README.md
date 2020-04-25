@@ -1,4 +1,4 @@
-# study_Xposed (完结)  可以加vx 2207344074  转 50元代码视频打包！！！！ qq群：309262570 826038086
+# study_Xposed (完结) 代码视频已经上传知识星球 id:10415793   有问题可以 联系作者 vx/qq:2207344074  qq群：309262570 826038086
 # Xposed 教程
 * --- 1.android8以及以前版本xposed安装.mp4
 * --- 2.android9下安装Magisk.太极.mp4
@@ -26,5 +26,5 @@
 * 309262570
 * 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
 * qq：2207344074
-## 查看完整资料请加入星球
-![](https://github.com/haidragon/study_frida/blob/master/image/1681580715267_.pic_hd.jpg)
+ 
+
