@@ -1,4 +1,4 @@
-# study_Xposed (完结) 可以加vx 2207344074了解详情！！！ qq群：309262570 826038086
+# study_Xposed (完结)  可以加vx 2207344074  转 50元代码视频打包！！！！ qq群：309262570 826038086
 # Xposed 教程
 * --- 1.android8以及以前版本xposed安装.mp4
 * --- 2.android9下安装Magisk.太极.mp4
