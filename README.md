@@ -22,9 +22,8 @@
 * --- 20.Xposed so hook.mp4
 # 其它视频教程
 * [对应视频教程目录](https://github.com/haidragon/haidragon_study)
-* qq交流群 
-* 309262570
+ 
 * 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
-* qq：2207344074
+* qq/wechat：2207344074
  
 
